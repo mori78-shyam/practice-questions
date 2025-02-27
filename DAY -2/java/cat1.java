@@ -3,8 +3,8 @@ public class cat1 {
     int age;
 
     public cat1(){
-        this.name = "unknown";
-        this.age = 0;
+        this.name = "shyam";
+        this.age = 19;
     }
 
     public static void main(String[] args) {
